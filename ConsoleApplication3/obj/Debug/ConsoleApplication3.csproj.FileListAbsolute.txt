@@ -1,0 +1,20 @@
+c:\users\mescalyne\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\mescalyne\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\mescalyne\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\mescalyne\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\mescalyne\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\mescalyne\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Ангелина\OneDrive\Рабочий стол\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Ангелина\OneDrive\Рабочий стол\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Ангелина\OneDrive\Рабочий стол\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Ангелина\OneDrive\Рабочий стол\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojAssemblyReference.cache
+C:\Users\Ангелина\OneDrive\Рабочий стол\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\OneDrive\Рабочий стол\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Ангелина\OneDrive\Рабочий стол\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Ангелина\Documents\уник\consoleShop-master\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Ангелина\Documents\уник\consoleShop-master\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Ангелина\Documents\уник\consoleShop-master\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Ангелина\Documents\уник\consoleShop-master\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.AssemblyReference.cache
+C:\Users\Ангелина\Documents\уник\consoleShop-master\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\Documents\уник\consoleShop-master\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Ангелина\Documents\уник\consoleShop-master\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
